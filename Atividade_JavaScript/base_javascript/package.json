@@ -1,0 +1,14 @@
+{
+  "name": "JavaScript_17_02",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Kaio Mendes",
+  "license": "MIT",
+  "scripts":{
+    "start:animal": "node animal.js",
+    "start:arrey": "node arrey.js",
+    "start:constantes": "node constantes.js",
+    "start:pessoa": "node pessoa.js"
+
+  }
+}
